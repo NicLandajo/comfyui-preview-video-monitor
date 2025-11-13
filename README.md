@@ -8,7 +8,7 @@
 
 📰 NEWS📰
 
-🖥️ Preview Video Monitor Pro — Version 2.0 (2025-11-12) --- will be out around November 14th/15th
+🖥️ Preview Video Monitor Pro — Version 2.0 will be out around November 14th/15th
 
 🚀 Major Update — Real-Time RAM-Cached Playback
 
