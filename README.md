@@ -8,42 +8,41 @@
 
 📰 NEWS📰
 
-# 🖥️ Preview Video Monitor Pro — Version 2.0 (2025-11-12) --- will be out around November 14th/15th
+🖥️ Preview Video Monitor Pro — Version 2.0 (2025-11-12) --- will be out around November 14th/15th
 
-## 🚀 Major Update — Real-Time RAM-Cached Playback
+🚀 Major Update — Real-Time RAM-Cached Playback
 
 This update delivers a **massive performance leap** for video playback in ComfyUI, transforming the node into a fully RAM-accelerated, 8-bit optimized video preview system.
 
 ---
 
-### ✨ Highlights
+✨ Highlights
 
-#### ⚡ Full RAM Caching
+⚡ Full RAM Caching
 - Videos are now decoded once and fully cached in memory as 8-bit RGB frames.  
 - Playback no longer depends on OpenCV’s disk streaming per frame.  
 - Re-runs of the same video reuse cache instantly.
 
-#### 🎨 8-Bit Color Pipeline (was 32-bit Float)
+🎨 8-Bit Color Pipeline (was 32-bit Float)
 - Replaced float32 frame storage with compact 8-bit RGB surfaces.  
 - Cuts memory use by **~75%** and eliminates costly float↔uint8 conversions.  
 - No visible quality loss for MP4/H.264 previews.
 
-#### 🧮 Pre-Scaling on Load
+🧮 Pre-Scaling on Load
 - All frames are pre-scaled to the target monitor resolution and fit mode during extraction.  
 - Eliminates per-frame OpenCV resize calls during playback.
 
-#### 🧠 Smart Global Cache
+🧠 Smart Global Cache
 - Added a shared global cache keyed by video path + resolution + fit mode.  
 - Cached videos persist across prompts until ComfyUI restarts.  
 - Automatically bypasses re-decoding for repeated runs.
 
-#### 🧱 Memory-Safe Design
+🧱 Memory-Safe Design
 - Built-in memory threshold (default: **2 GiB**) to prevent overload.  
 - Large videos gracefully fall back to streaming mode with a log warning.  
 - Limit adjustable via environment variable:
   ```bash
   set PREVIEWVM_MAX_CACHE_BYTES=4294967296
-
 
 #
 
