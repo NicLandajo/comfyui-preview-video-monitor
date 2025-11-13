@@ -14,8 +14,6 @@
 
 This update delivers a **massive performance leap** for video playback in ComfyUI, transforming the node into a fully RAM-accelerated, 8-bit optimized video preview system.
 
----
-
 ✨ Highlights
 
 ⚡ Full RAM Caching
