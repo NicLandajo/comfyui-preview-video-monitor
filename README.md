@@ -10,8 +10,6 @@ WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
 
 #
 
-📰 NEWS📰
-
 🚀 Preview Video Monitor Pro v3.2 — Faster, Cleaner, and More Precise Than Ever
 
 Preview Video Monitor Pro v3.2 brings a smoother, more intuitive experience designed directly for artists, animators, and editors who need reliable, accurate previews every time.
