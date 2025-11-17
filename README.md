@@ -11,6 +11,7 @@
 #
 
 🐱‍👤 INSTALLING DEPENDENCIES ALL AT ONCE
+
 Run this from your python environment at \comfyui using Command Prompt and that´s it.
 
 pip install torch numpy pillow opencv-python pygame screeninfo
