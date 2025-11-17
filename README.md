@@ -6,11 +6,12 @@
 
 #
 
-WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
+📼 WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
 
 #
 
-INSTALLING DEPENDENCIES ALL AT ONCE: Run this from your python environment at \comfyui using Command Prompt
+🐱‍👤 INSTALLING DEPENDENCIES ALL AT ONCE
+Run this from your python environment at \comfyui using Command Prompt and that´s it.
 
 pip install torch numpy pillow opencv-python pygame screeninfo
 
@@ -42,7 +43,7 @@ Previews feel snappy and lightweight
 Timing accuracy is better than ever
 
 
-📁 Preview Video Monitor Pro automatically creates two folders inside /custom_nodes/PreviewVideoMonitorPro/
+📁🚂 Preview Video Monitor Pro automatically creates two folders inside /custom_nodes/PreviewVideoMonitorPro/
 
 /cache/: stores temporary optimized video files and pre-scaled frames
 
