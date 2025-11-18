@@ -10,14 +10,6 @@
 
 #
 
-🐱‍👤 INSTALLING DEPENDENCIES ALL AT ONCE
-
-Run this from your python environment at \comfyui using Command Prompt
-
-pip install pygame screeninfo opencv-python pillow
-
-#
-
 🚀 Preview Video Monitor Pro v3.3 — Faster, Cleaner, and More Precise Than Ever
 
 Preview Video Monitor Pro v3.3 brings a smoother, more intuitive experience with accurate previews every time.
