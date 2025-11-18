@@ -16,7 +16,7 @@ Please read the install instructions.
 
 🚀 Preview Video Monitor Pro v3.3 — Faster, Cleaner, and More Precise Than Ever
 
-Preview Video Monitor Pro v3.3 brings a smoother, more intuitive experience with accurate previews every time.
+Preview Video Monitor Pro v3.3 brings a smoother, more intuitive experience with accurate previews.
 
 ✨ What’s New
 
@@ -26,7 +26,7 @@ Your main timing control is now the first setting you see — making setup quick
 🎞️ Improved preview_fps Control now accepts both
 
 "Smart" automatic detection when you want the tool to choose the best framerate, or
-Exact custom values like 24, 29.97, 48, or 60 when you need perfect animation timing.
+Exact custom values like 24, 29.97, 48, or 60 when you need exact animation timing.
 
 ⚡ Smoother Playback, Same Rock-Solid Performance
 
