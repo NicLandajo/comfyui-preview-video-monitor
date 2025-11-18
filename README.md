@@ -10,6 +10,10 @@
 
 #
 
+Please read the install instructions.
+
+#
+
 🚀 Preview Video Monitor Pro v3.3 — Faster, Cleaner, and More Precise Than Ever
 
 Preview Video Monitor Pro v3.3 brings a smoother, more intuitive experience with accurate previews every time.
