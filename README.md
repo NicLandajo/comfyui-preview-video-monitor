@@ -1,5 +1,7 @@
 # PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple monitors. Lets you select one of up to six secondary monitors to display generated videos in fullscreen! Supports video and image-batch.
 
+<img width="938" height="344" alt="wide" src="https://github.com/user-attachments/assets/bd4ef020-3198-4438-b486-75d02157ef0c" />
+
 <img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
 
 <img width="1851" height="929" alt="3 2interface_02" src="https://github.com/user-attachments/assets/adf23364-5856-4b66-86cd-1ec1290459b1" />
