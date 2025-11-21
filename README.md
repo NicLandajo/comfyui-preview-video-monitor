@@ -2,6 +2,10 @@
 
 #
 
+<img width="2048" height="700" alt="Banner_github" src="https://github.com/user-attachments/assets/d8819d6a-d98a-4370-9d45-0bf1e6ddd8fb" />
+
+#
+
 🔥NEWS🔥 V5.0 -  Groundbreaking ComfyUI Preview Experience soon!
 
 <img width="1920" height="1080" alt="monitor V5" src="https://github.com/user-attachments/assets/64d729a6-4fc6-439a-8cda-4191d9509d59" />
@@ -28,8 +32,6 @@
 From the simple previews of v3.3 to the professional-grade video workstation of v5.0 - Experience video previewing like never before! 🎥✨
 
 #
-
-<img width="2048" height="700" alt="Banner_github" src="https://github.com/user-attachments/assets/d8819d6a-d98a-4370-9d45-0bf1e6ddd8fb" />
 
 <img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
 
