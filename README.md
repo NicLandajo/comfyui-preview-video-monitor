@@ -4,7 +4,7 @@
 
 #
 
-🔥NEWS🔥 V5.0 -  Groundbreaking ComfyUI Preview Experience soon!
+🔥NEWS🔥 V5.0 -  Preview Experience soon!
 
 <img width="1920" height="1080" alt="monitor V5" src="https://github.com/user-attachments/assets/64d729a6-4fc6-439a-8cda-4191d9509d59" />
 
@@ -27,6 +27,8 @@
 🎮 CONTROLS HAVE MOVED! - From Static Node Settings to Dynamic Interactive Monitor - Click, Drag, Zoom & Control Everything in Real-Time!
 
 🖱️ Smart Interactive Controls - Zoom with mouse wheel, pan with right-click drag, and instant fit modes (Fit, Width, Height, 1:1)
+
+🧠 Your generation runs can be stored and re-visited instantly without re-runs o re-prompting. You can store as many as you like in the session.
 
 🎯 Enhanced Visual Experience - real-time frame counter with custom numbering, resolution display, and multi-monitor support
 
