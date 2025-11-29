@@ -24,11 +24,9 @@ PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple mo
 
 🎯 Enhanced Visual Experience - real-time frame counter with custom numbering, resolution display, and multi-monitor support
 
-⚡ Performance Optimized - Smart caching system, dynamic resolution handling, and buttery-smooth playback at your chosen FPS
+⚡ Performance Optimized - Smart caching system, dynamic resolution handling, playback at your chosen FPS
 
 🔄 Universal Compatibility - Works seamlessly with videos, image sequences, tensors, and all major ComfyUI video formats
-
-From the simple previews of v3.3 to the professional-grade video workstation of v5.0 - Experience video previewing like never before! 🎥✨
 
 #
 
