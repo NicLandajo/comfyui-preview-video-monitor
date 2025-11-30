@@ -6,7 +6,7 @@ PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple mo
 
 #
 
-# 🔥NEWS🔥 V5.0 -  New preview experience coming soon!
+# 🔥NEWS🔥 V5.0 -  NEW PREVIEW EXPERIENCE MAJOR UPDATE COMING SOON!
 
 <img width="1920" height="1080" alt="interface_01" src="https://github.com/user-attachments/assets/2556b4b1-e60f-462e-a4a6-425ef9234307" />
 
