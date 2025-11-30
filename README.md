@@ -74,7 +74,7 @@ Instant Fit Modes - Click buttons or use number keys 12345 for instant view adju
 
 Live Visual Feedback - Buttons light up with color-coded active states
 
-🧠 Smart Persistent Generation Vault
+🧠 Smart Persistent Generations Vault Cache
 
 Cross-Session Preservation - Your creative generations survive ComfyUI restarts and system reboots
 
