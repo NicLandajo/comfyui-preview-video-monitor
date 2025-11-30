@@ -136,7 +136,7 @@ ENTER = Toggle generations menu
 <div align="center">
   
 # PreviewVideoMonitor V3.3
-# (current version, no interactive monitor controls, soon to be deprecated)
+# current version soon to be deprecated
 
 </div>
 
