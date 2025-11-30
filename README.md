@@ -70,7 +70,7 @@ Dynamic Real-Time Interface - All controls moved from static nodes to interactiv
 
 Intuitive Zoom & Pan - Mouse wheel zooms anchored to cursor, right-click drag pans
 
-Instant Fit Modes - Click buttons or use number keys for instant view adjustments
+Instant Fit Modes - Click buttons or use number keys 12345 for instant view adjustments
 
 Live Visual Feedback - Buttons light up with color-coded active states
 
