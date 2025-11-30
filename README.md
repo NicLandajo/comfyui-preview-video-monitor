@@ -22,7 +22,6 @@ Lets you select one of up to six secondary monitors to display generations insta
 <img width="1920" height="1080" alt="interface_01" src="https://github.com/user-attachments/assets/2556b4b1-e60f-462e-a4a6-425ef9234307" />
 
 #
-
 <img width="1920" height="1080" alt="interface_03" src="https://github.com/user-attachments/assets/9542b15c-a87d-4efb-9067-b80453da969e" />
 
 #
