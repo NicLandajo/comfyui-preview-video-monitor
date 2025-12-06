@@ -80,6 +80,8 @@ Cross-Session Preservation - Your creative generations survive ComfyUI restarts 
 
 Unlimited Version History - Store every iteration of your work without worrying about limits during sessions
 
+Rename any Generation instantly to keep your creative sessions organized and highlight the moments that inspired you!
+
 Instant Time Travel - Dropup menu with keyboard navigation (↑ ↓ ENTER) to revisit any point in your creative journey
 note: future versions might save a json or png from the video file per generation in case you need to recostruct a previous look
 
