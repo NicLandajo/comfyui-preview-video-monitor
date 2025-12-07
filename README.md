@@ -37,6 +37,8 @@ Physical Display Gamut Video Selection
 #
 <img width="1921" height="971" alt="interface_02" src="https://github.com/user-attachments/assets/c3b7d8a5-b22f-446c-92e7-3066447030e9" />
 
+The Node
+
 #
 -🎬 Professional Playback Control Suite
 
