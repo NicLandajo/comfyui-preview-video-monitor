@@ -33,7 +33,6 @@ Generations cycling selection menu - Display your versions instantly from the ca
 #
 <img width="1920" height="1080" alt="004" src="https://github.com/user-attachments/assets/a74d3537-504c-4a9a-bcf0-081b21544b56" />
 
-#
 Physical Display Gamut Video Selection
 
 #
