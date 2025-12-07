@@ -29,7 +29,7 @@ In/Out Marking System. Set Range Instantly - Press I for IN point, O for OUT poi
 #
 <img width="1920" height="1080" alt="002" src="https://github.com/user-attachments/assets/00be4ec5-ab4b-4fea-981a-234ebe9bb10d" />
 
-Generations cycling selection menu - Display your versions instantly from the cache to the monitor. Rename them as you go.
+Generations cycling selection menu - Display your creative history instantly to the monitor. Rename generations as you go.
 
 #
 <img width="1920" height="1080" alt="004" src="https://github.com/user-attachments/assets/a74d3537-504c-4a9a-bcf0-081b21544b56" />
