@@ -189,6 +189,23 @@ Q = Close viewer
 ENTER = Toggle generations menu
 
 #
+
+# PreviewVideoMonitorPro (PVMP) – Important Notes
+
+PVMP is an advanced video/image viewer with powerful caching and workflow-saving features. However, it is not designed to be your primary file management system.
+Key Points:
+
+Always use Save nodes (e.g., Save Image, Save Video, etc.) to permanently store your final work in your regular working directory or custom pipelines.
+PVMP should currently be treated as a volatile preview system — ideal for creative sessions and quick iterations, but not for long-term storage.
+While PVMP can save files to disk, its internal session data and cached files are stored inside its own folder:
+custom_nodes/PreviewVideoMonitorPro/
+This internal storage may be cleared or changed between sessions or updates, so do not rely on it for keeping your work safe.
+
+Future Improvement
+In upcoming versions, you will be able to set a custom storage location for all session-generated data, giving you full control over where files are kept.
+Bottom line: Use PVMP as a Monitoring/Viewer systemfor fast, powerful previews and creative experimentation — but always save your important work properly using dedicated Save nodes.
+
+#
 <div align="center">
   
 # PreviewVideoMonitor V3.3
