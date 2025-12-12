@@ -65,7 +65,10 @@ The Node
 
 #
 
-- 🏭 Currently working on gain, gamma and saturation sliders.
+- 🏭 Currently working on gain, gamma and saturation sliders | Zebra clipping | RGB ALPHA and DEPTH Channels visualization |
+- RGBAZ shortcuts "r" "g" "b" "a" "z"
+
+- Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
 #
 
