@@ -51,14 +51,21 @@ Share the PNG or open it later in comfy and continue working from there. The Sna
 Explore the dir and grab your history work and continue creating.
 
 #
+<img width="1920" height="1080" alt="009" src="https://github.com/user-attachments/assets/45f861d6-9a68-40f2-8753-0b1d376ca2d5" />
 
+Wipe/Compare/A/B - You can wipe/compare the current generation on screen against any other gen in the Generations dropup menu.
+As soon as you click and hold, the yellow wipe interface dissapears and you see a clean wipe that you can move side to side.
+As soon as you release the left click, the yellow wipe interface comes back right where your pointer is.
+Deactivate wipe with W shortcut.
+
+#
 <img width="1921" height="977" alt="007" src="https://github.com/user-attachments/assets/872f7cd5-36fa-4974-b751-417ef567b8b5" />
 
 The Node
 
 #
 
-- 🏭 Currently working on the wipe compare A/B module orchestrated with the Generations dropup menu. Also working on gain, gamma and saturation sliders.
+- 🏭 Currently working on gain, gamma and saturation sliders.
 
 #
 
