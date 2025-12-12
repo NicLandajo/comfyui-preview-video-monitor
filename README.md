@@ -190,7 +190,7 @@ ENTER = Toggle generations menu
 
 #
 
-# PreviewVideoMonitorPro (PVMP) – Important Notes
+# PreviewVideoMonitorPro V5.0 (PVMP) – Important Notes
 
 PVMP is an advanced video/image viewer with powerful caching and workflow-saving features. However, it is not designed to be your primary file management system.
 Key Points:
