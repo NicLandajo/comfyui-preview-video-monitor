@@ -66,7 +66,6 @@ The Node
 #
 
 - 🏭 Currently working on gain, gamma and saturation sliders | Zebra clipping | RGB ALPHA and DEPTH Channels visualization |
-- RGBAZ shortcuts "r" "g" "b" "a" "z"
 
 - Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
@@ -190,6 +189,9 @@ ESC = Exit fullscreen
 Q = Close viewer
 
 ENTER = Toggle generations menu
+
+
+-📺 Cycling the RGB channels: Use "r" "g" and "b" shortcuts to see the red green and blue channels in the monitor
 
 #
 
