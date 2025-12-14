@@ -69,9 +69,9 @@ The Node
 
 Gain, gamma and saturation sliders, zebra clipping, finishing registration system to avoid duplicated generations across sessions on "first run prompts", file size compare/time.
 
-Cross "seesion/system/network/user/project" where user enters name or project name and an easy to use managing system. This would keep the data separated and protected on a multy user machine and across machines.
+Cross "seesion/system/network/user/project" where user enters name or project name and on easy to use managing system. This would keep the data separated and protected on a multy user machine and across machines.
 
-One click Export/Collect project/user data sessions to a remote location, cross studio sharing, user sharing and the ability to quickly share the work and use it on a remote location, user or machine.
+One click Export/Collect project/user data session for a remote location, cross studio sharing, user sharing and the ability to quickly share the work and use it on a remote location/user/machine.
 
 
 - 🕰️ Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
