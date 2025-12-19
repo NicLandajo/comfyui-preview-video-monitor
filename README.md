@@ -4,7 +4,7 @@
 
 # PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen!
 
-PreviewVideoMonitor is a ComfyUI custom node for video preview on multiple monitors.
+PreviewVideoMonitor is a ComfyUI custom node for video preview on multiple physical monitors.
 
 Lets you select one of up to six secondary monitors to display generations instantly for both video and image-batch.
 
@@ -68,10 +68,6 @@ The Node
 
 - 🏭 Currently working on
 
-Gain, gamma and saturation sliders, zebra clipping, finishing registration system to avoid duplicated generations across sessions on "first runs prompt", file size compare/time.
-
-Separating Generations (more volatile cache) from Snapshots (a backup of the work look dev) on different folders and systems of deletion.
-
 - 🕰️ Long term development for 2026 for version V6 is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
 #
@@ -134,10 +130,10 @@ Instant Time Travel - Dropup menu with keyboard navigation (↑ ↓ ENTER) to re
 Visual Generation Gallery - Hover and click to instantly resurrect any previous creation
 
 Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with
-your comfyui workflow injected in it. Share the PNG or open it later in comfy and continue working from there.
+your comfyui workflow injected in it.
 The Snapshots and Generations work orchestrated together maintaining naming sync.
 PreviewVideoMonitor saves snapshos data inside its own default folder custom_nodes/PreviewVideoMonitorPro/,
-but you can change this to your own custom directory directly from the node, super easy,
+but you can change this to your own custom directory directly from the node with one click, super easy,
 and giving you full control over where Snaps are kept.
 
 Smart Memory Management - Configurable archive limits with intelligent oldest-first curation
