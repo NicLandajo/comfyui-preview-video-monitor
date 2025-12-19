@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# CompfyMonitor 🖥️🖥️ Multimonitor Fullscreen!
+# ComfyMonitor 🖥️🖥️ Multimonitor Fullscreen!
 
 PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple monitors.
 
