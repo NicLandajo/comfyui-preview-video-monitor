@@ -47,8 +47,7 @@ ClearCache. "Deletion confirmation" and "Explore" buttons.
 
 Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with your comfyui workflow injected in it.
 Share the PNG or open it later in comfy and continue working from there. The Snapshots and Generations work orchestrated together maintaining naming sync.
-Explore the dir and grab your history work and continue creating. PreviewVideoMonitor saves snapshos data inside its own default folder
-custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom directory directly from the node, super easy, and giving you full control over where Snaps are kept.
+Explore the dir and grab your history work and continue creating.
 
 #
 
@@ -137,7 +136,9 @@ Visual Generation Gallery - Hover and click to instantly resurrect any previous 
 Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with
 your comfyui workflow injected in it. Share the PNG or open it later in comfy and continue working from there.
 The Snapshots and Generations work orchestrated together maintaining naming sync.
-Explore the dir and grab your history work and continue creating.
+PreviewVideoMonitor saves snapshos data inside its own default folder custom_nodes/PreviewVideoMonitorPro/,
+but you can change this to your own custom directory directly from the node, super easy,
+and giving you full control over where Snaps are kept.
 
 Smart Memory Management - Configurable archive limits with intelligent oldest-first curation
 
