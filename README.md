@@ -35,11 +35,6 @@ In/Out Marking System. Set Range Instantly - Press I for IN point, O for OUT poi
 Generations cycling menu - Display your creative history instantly to the monitor. Rename generations as you go.
 
 #
-<img width="1920" height="1080" alt="004" src="https://github.com/user-attachments/assets/a74d3537-504c-4a9a-bcf0-081b21544b56" />
-
-Physical Display Gamut Video Selection
-
-#
 <img width="1920" height="1080" alt="005" src="https://github.com/user-attachments/assets/fec4bbfd-ab30-4471-9aba-4a036a2030d7" />
 
 ClearCache. "Deletion confirmation" and "Explore" buttons.
@@ -161,11 +156,6 @@ Resolution Overlay - Always-visible original media resolution
 Color-Coded Interface - Intuitive button states with meaningful color schemes
 
 Professional Timeline - Extended scrubbing area for easy frame selection
-
--🦜 Physical Display Gamut Video Selection
-
-Direct support for sRGB (default) • sRGB ↔ Linear • Adobe RGB • DCI-P3 • Rec. 2020 • Rec.709
-Rec.709 ↔ Linear • PQ (ST2084) → sRGB (HDR tone-mapping) • HLG → sRGB (HDR tone-mapping)
 
 -🔄 Universal Compatibility
 
