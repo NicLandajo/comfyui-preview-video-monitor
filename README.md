@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen!
+# PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen
 
 PreviewVideoMonitor is a ComfyUI custom node for video preview on multiple physical monitors.
 
