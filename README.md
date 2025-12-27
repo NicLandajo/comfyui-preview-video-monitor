@@ -238,7 +238,7 @@ This internal storage may be cleared by users (or accidentally by you) or change
   
 # 🖥️🖥️PreviewVideoMonitor V3.3🖥️🖥️
 # Version soon to be deprecated
-📼 WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
+# 📼 WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
 
 </div>
 
