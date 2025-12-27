@@ -182,6 +182,11 @@ Color-Coded Interface - Intuitive button states with meaningful color schemes
 
 Professional Timeline - Extended scrubbing area for easy frame selection
 
+🔍 Vision
+
+The Vision module puts real-time color grading at your fingertips with a suite of professional adjustment tools that respond instantly as you scrub through your generations. Fine-tune brightness, contrast, and saturation with smooth, responsive sliders that feel native to your workflow. Navigate to any frame, adjust the look, and see your changes applied in real-time—no render required. The Vision module includes RGB channel isolation for precision color work, plus a live vectorscope display with vibrant 4x4 dot visualization that updates as you adjust, giving you professional-grade feedback on your color decisions. Every control is designed for speed and precision, letting you evaluate and grade your AI generations with the same tools colorists use in post-production, all without leaving the monitor.
+
+
 -🔄 Universal Compatibility
 
 Multi-Format Support - Videos, image sequences, tensors, and all ComfyUI video formats
