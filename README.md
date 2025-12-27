@@ -184,8 +184,15 @@ Professional Timeline - Extended scrubbing area for easy frame selection
 
 🔍 Vision
 
-The Vision module puts real-time color grading at your fingertips with a suite of professional adjustment tools that respond instantly as you scrub through your generations. Fine-tune brightness, contrast, and saturation with smooth, responsive sliders that feel native to your workflow. Navigate to any frame, adjust the look, and see your changes applied in real-time—no render required. The Vision module includes RGB channel isolation for precision color work, plus a live vectorscope display with vibrant 4x4 dot visualization that updates as you adjust, giving you professional-grade feedback on your color decisions. Every control is designed for speed and precision, letting you evaluate and grade your AI generations with the same tools colorists use in post-production, all without leaving the monitor.
+The Vision module transforms your monitor into a technical inspection lab for AI-generated imagery.
 
+Isolate RGB channels to detect hidden artifacts, use the live vectorscope to analyze color distribution,
+
+and stress-test your generations with diagnostic controls that reveal edge cases normal viewing might miss.
+
+Combined with masking capabilities and frame-accurate analysis, Vision gives you forensic-grade tools to
+
+evaluate what the AI actually generated—not just what it appears to show.
 
 -🔄 Universal Compatibility
 
