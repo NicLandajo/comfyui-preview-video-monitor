@@ -234,13 +234,10 @@ custom_nodes/PreviewVideoMonitorPro/, but you can change this to your own custom
 This internal storage may be cleared by users (or accidentally by you) or changed between sessions or updates, so do not rely on it for keeping your work 100% safe.
 
 #
-<div align="center">
-  
-# 🖥️🖥️PreviewVideoMonitor V3.3🖥️🖥️ is now deprecated.
-
-</div>
+PreviewVideoMonitor V3.3🖥️🖥️ is now deprecated.
 
 #
+
 ☕︎ HEY!!!👋 Please support, just $1 can make a real difference ☕︎
 
 ☕︎ https://buymeacoffee.com/nicolaslandajo ☕︎
