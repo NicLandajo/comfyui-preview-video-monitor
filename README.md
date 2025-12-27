@@ -182,7 +182,7 @@ Color-Coded Interface - Intuitive button states with meaningful color schemes
 
 Professional Timeline - Extended scrubbing area for easy frame selection
 
-🔍 Vision
+🔍 Vision module
 
 The Vision module transforms your monitor into a technical inspection lab for AI-generated imagery.
 
