@@ -246,12 +246,6 @@ This internal storage may be cleared by users (or accidentally by you) or change
 
 </div>
 
-<img width="1848" height="925" alt="3 2interface_01" src="https://github.com/user-attachments/assets/85badbaa-de59-4eb8-a7ad-d4c264aae90c" />
-
-<img width="1851" height="929" alt="3 2interface_02" src="https://github.com/user-attachments/assets/adf23364-5856-4b66-86cd-1ec1290459b1" />
-
-<img width="1920" height="756" alt="Banner_github_guy" src="https://github.com/user-attachments/assets/c0f3719d-92d9-434d-b562-aefa56d00d10" />
-
 #
 
 📼 WATCH THE TUTORIAL: https://www.youtube.com/watch?v=q6JLcth2LnY
