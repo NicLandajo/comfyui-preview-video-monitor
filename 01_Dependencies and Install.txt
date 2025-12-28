@@ -1,0 +1,37 @@
+📦 Installation Guide
+
+ComfyUI Note: This tool was developed solely on ComfyUI desktop. The Portable may work but it´s not guaranteed nor tested.
+Windows 10 note: No other windows (and osx versions) where tested during development but the tool might work.
+
+# System Requirements
+
+ComfyUI
+Python 3.8 or higher
+NVIDIA/AMD GPU with current drivers. 12GB vram and above
+Windows 10 (other os might work but not guaranteed)
+16GB RAM: ok for non video sessions, single images.
+32GB RAM and above for video
+
+
+# Installation Steps
+
+1. Verify Prerequisites
+Ensure ComfyUI is properly configured and running before proceeding.
+
+2. Install Required Dependencies
+Open your terminal/command prompt in ComfyUI's Python environment (or your preferred method for packages install):
+
+pip install pygame screeninfo opencv-python pillow
+
+Note: These packages integrate seamlessly with your existing ComfyUI installation.
+
+3. Deploy the Node
+
+Navigate to your ComfyUI custom_nodes directory
+Remove any previous PreviewVideoMonitorPro installation
+Copy to custom_nodes/
+You should now see "custom_nodes/PreviewVideoMonitorPro"
+Restart ComfyUI
+
+4. Verification
+Launch ComfyUI and locate Preview Video Monitor
