@@ -152,7 +152,7 @@ Rename any Generation instantly to keep your creative sessions organized and hig
 Instant Time Travel - Dropup menu with keyboard navigation (↑ ↓ ENTER) to revisit any point in your creative journey
 Visual Generation Gallery - Hover and click to instantly resurrect any previous creation
 
-Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a PNG image with
+Take Snapshots of your creative process anytime. Whatever is on screen at that moment will be saved to a webp image with
 your comfyui workflow injected in it.
 The Snapshots and Generations work orchestrated together maintaining naming sync.
 PreviewVideoMonitor saves snapshos data inside its own default folder custom_nodes/PreviewVideoMonitorPro/,
