@@ -1,4 +1,4 @@
-📦 Installation Guide
+📦 Installation Guide for CrateTools Preview Video Monitor
 
 ComfyUI Note: This tool was developed solely on ComfyUI desktop. The Portable may work but it´s not guaranteed nor tested.
 Windows 10 note: No other windows (and osx versions) where tested during development but the tool might work.
@@ -35,3 +35,4 @@ Restart ComfyUI
 
 4. Verification
 Launch ComfyUI and locate Preview Video Monitor
+
