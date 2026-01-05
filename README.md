@@ -243,9 +243,7 @@ Is also recommended to have a CPU of at least 8 cores horse power.
 
 # Join the project:
 
-If you think you would like to contribute to improving the tool, let us know.
-PVM has become a complex tool and needs more optimization and attention on all its individual modules.
-It would be ideal if you had some knowledge of pygame, opencv-python and cuda systems and software.
+If you think you would like to contribute to improving the tool, let us know!
 
 # Previous versions
 
