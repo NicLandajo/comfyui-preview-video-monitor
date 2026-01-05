@@ -253,7 +253,7 @@ V1.0 (deprecated) This was the main bridge comfyui-pygame tool with basic functi
 
 #
 
-☕︎ HEY!!!👋 Please support, just $1 can make a real difference ☕︎
+☕︎ 👋 Please support, just $1 can make a real difference ☕︎
 
 ☕︎ https://buymeacoffee.com/cratetools ☕︎
 
