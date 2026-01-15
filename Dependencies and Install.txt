@@ -1,3 +1,7 @@
+⏳ Coming soon to ComfyUI Manager - one-click install! - No need to worry about manually installing dependencies ⏳
+
+For now, manual installation:
+
 📦 Installation Guide for CrateTools Preview Video Monitor
 
 ComfyUI Note: This tool was developed solely on ComfyUI desktop. The Portable may work but it´s not guaranteed nor tested.
@@ -35,4 +39,5 @@ Restart ComfyUI
 
 4. Verification
 Launch ComfyUI and locate Preview Video Monitor
+
 
