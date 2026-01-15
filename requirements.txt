@@ -1,0 +1,4 @@
+pygame
+screeninfo
+opencv-python
+pillow
