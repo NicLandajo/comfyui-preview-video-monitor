@@ -92,11 +92,11 @@ The Node
 
 #
 
-- 🏭 Future versions: We´ll work on a more advance, fast and less consuming RAM and GPU engine.
+- Future versions: We´ll work on a more advance, fast and less consuming RAM and GPU engine.
   
   Note: If PVM consumes more resources than you are willing to accept, consider waiting for future updates.
   
-- 🕰️ Long term development is a 3D system in the monitor to visualize 3D geometry and gaussian splats
+- Long term development is a 3D system in the monitor to visualize 3D geometry and gaussian splats
 
 #
 
@@ -106,7 +106,7 @@ The Node
 
 </div>
 
-# 🎬 Professional Playback Control Suite
+# Professional Playback Control Suite
 
 Intuitive Timeline Scrubbing - Click and drag anywhere above the timeline for precise frame control
 
@@ -116,7 +116,7 @@ Smart Playback Modes - Forward, Backward, and Ping-Pong playback with single-cli
 
 Instant Play/Pause - Spacebar toggles playback instantly, right from your keyboard home row
 
-# 🖥️ Immersive Viewing Experience
+# Immersive Viewing Experience
 
 One-Click Fullscreen - Press 5 to enter true fullscreen mode, ESC or 5 again to exit
 
@@ -126,7 +126,7 @@ Keyboard-Optimized Shortcuts - All controls under your left hand without looking
 
 Multi-Monitor Ready - Display on any monitor with automatic resolution detection
 
-# 🎯 Professional In/Out Marking System
+# Professional In/Out Marking System
 
 Set Range Instantly - Press I for IN point, O for OUT point at current frame
 
@@ -136,7 +136,7 @@ Smart Playback Bounds - All playback modes respect your marked range automatical
 
 Quick Reset - Press P to instantly reset to full media length
 
-# 🎮 Total Interactive Control
+# Total Interactive Control
 
 Dynamic Real-Time Interface - All controls moved from static nodes to interactive monitor
 
@@ -146,7 +146,7 @@ Instant Fit Modes - Click buttons or use number keys 12345 for instant view adju
 
 Live Visual Feedback - Buttons light up with color-coded active states
 
-# 🧠 Smart Persistent Generations Vault Cache
+# Smart Persistent Generations Vault Cache
 
 Cross-Session Preservation - Your creative generations survive ComfyUI restarts and system reboots
 
@@ -164,7 +164,7 @@ PreviewVideoMonitor saves snapshos data inside its own default folder custom_nod
 but you can change this to your own custom directory directly from the node with one click, super easy,
 and giving you full control over where Snaps are kept.
 
-# ⚡ Performance Engine
+# Performance Engine
 
 GPU-Accelerated Processing - Automatic CUDA detection with OpenCV & PyTorch backend fallbacks
 
@@ -174,7 +174,7 @@ Real-Time Resolution Handling - Automatic scaling with maintained aspect ratios
 
 Custom FPS Control - Playback at your exact desired framerate
 
-# 🎨 Enhanced Visual Experience
+# Enhanced Visual Experience
 
 Live Frame Counter - Real-time display with custom starting frame numbers
 
@@ -184,7 +184,7 @@ Color-Coded Interface - Intuitive button states with meaningful color schemes
 
 Professional Timeline - Extended scrubbing area for easy frame selection
 
-# 🔍 Vision module
+# Vision module
 
 The Vision module transforms your monitor into a technical inspection lab for AI-generated imagery.
 
@@ -196,7 +196,7 @@ Combined with masking capabilities and frame-accurate analysis, Vision gives you
 
 evaluate what the AI actually generated—not just what it appears to show.
 
-# 🔄 Universal Compatibility
+# Universal Compatibility
 
 Multi-Format Support - Videos, image sequences, tensors, and all ComfyUI video formats
 
@@ -206,7 +206,7 @@ Seamless Workflow Integration - Works alongside your existing ComfyUI pipelines
 
 Cross-Platform Ready - Windows, Linux, macOS with automatic fallback handling
 
-# 🎮 Quick Start Controls:
+# Quick Start Controls:
 
 Space = Play/Pause
 
@@ -222,7 +222,7 @@ Shift+q = Close entire monitor interface
 
 ENTER = Toggle generations menu and also once in it triggers change generation name
 
-📺 Cycling the RGB channels: Use "r" "g" and "b" shortcuts to see the red green and blue channels in the monitor
+Cycling the RGB channels: Use "r" "g" and "b" shortcuts to see the red green and blue channels in the monitor
 
 # Important Notes and Storage Control
 
@@ -257,20 +257,20 @@ V1.0 (deprecated) This was the main bridge comfyui-pygame tool with basic functi
 
 #
 
-☕︎ 👋 Please support, just $1 can make a real difference ☕︎
+☕︎ Please support, just $1 can make a real difference ☕︎
 
-☕︎ https://buymeacoffee.com/cratetools ☕︎
+https://buymeacoffee.com/cratetools
 
 ⭐Can’t or don’t feel like donating? No worries at all! Just giving the repo a Star helps others discover it, and that support means the world
 
-🌍 Share this tool with anyone you think would enjoy it! 🌍
+Share this tool with anyone you think would enjoy it!
 
-🪲 Report any bugs you come across
+Report any bugs you come across
 
-📄 Contribute improvements
+Contribute improvements
 
 #
-🐍 Special Thanks to PyGame 🐍 Preview Image Monitor relies on the powerful Pygame library to handle cross-platform window creation, display management, and image rendering. We extend our sincere thanks to the Pygame developers and contributors for their invaluable work. https://github.com/pygame
+🐍 Special Thanks to PyGame - Preview Image Monitor relies on the powerful Pygame library to handle cross-platform window creation, display management, and image rendering. We extend our sincere thanks to the Pygame developers and contributors for their invaluable work. https://github.com/pygame
 
 #
 PLEASE READ THE LICENSE FILE
