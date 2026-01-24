@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-preview-video-monitor"
+version = "5.2.0"
+description = "Second monitor preview for video generations with interactive playback controls, color tools, generation tracking, and workflow-embedded snapshots."
+license = { text = "MIT" }
+```
+
+**Step 5:** Commit message:
+```
+Add pyproject.toml for version info
