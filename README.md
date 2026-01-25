@@ -16,7 +16,7 @@ Preview videos, image sequences, and images with interactive on-screen controls,
 
 ### See the demo: https://www.youtube.com/watch?v=1574Y_pF5Ec
 
-### ComfyUI Manager - One-Click Install!
+### ComfyUI Manager - One-Click Install with automatic dependency installation
 
 </div>
 
