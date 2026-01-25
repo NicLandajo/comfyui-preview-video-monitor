@@ -4,13 +4,10 @@
 
 # PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen
 
-CrateTools PreviewVideoMonitorPro is a ComfyUI custom node for video preview on multiple physical monitors.
+A ComfyUI custom node for video preview on multiple physical monitors.
 
-Select any secondary display to instantly preview videos, image sequences and single images with a full generation tracking system.
+Instantly preview videos, image sequences and single images with a full generation tracking system.
 
-Save, rename, compare, and snapshot your outputs.
-
-Includes professional Vision tools for technical inspection and preview color corrections.
 #
 
 # 🔥 V5 is OUT 🔥
