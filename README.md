@@ -4,9 +4,9 @@
 
 # PreviewVideoMonitor 🖥️🖥️ Multimonitor Fullscreen
 
-A ComfyUI custom node for video preview on multiple physical monitors.
+A ComfyUI custom node for video preview on multiple physical monitors
 
-Instantly preview videos, image sequences and single images with a full generation tracking system.
+Instantly preview videos, image sequences, and images with on-screen interactive controls, snapshots, and full generation tracking
 
 #
 
