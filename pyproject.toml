@@ -11,4 +11,4 @@ Repository = "https://github.com/CrateTools/comfyui-preview-video-monitor"
 [tool.comfy]
 PublisherId = "cratetools"
 DisplayName = "Preview Video Monitor Pro"
-Icon = "pvmicon.png"
+Icon = "https://raw.githubusercontent.com/CrateTools/comfyui-preview-video-monitor/main/pvmicon.png"
