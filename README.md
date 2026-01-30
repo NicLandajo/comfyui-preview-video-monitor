@@ -240,10 +240,6 @@ If PVM consumes more resources than you are willing to accept, consider waiting 
 As reference, it´s absolutly not recomended to use a GPU under 12GB VRAM, also take a "rtx nvidia 3060" as the minimum processing power base you would need.
 Is also recommended to have a CPU of at least 8 cores horse power.
 
-# Join the project:
-
-If you think you would like to contribute to improving the tool, let us know!
-
 # Previous versions
 
 V3.3 and V3.2 (deprecated) This is the first release of PVM with user interactive interface and on-screen controls.
